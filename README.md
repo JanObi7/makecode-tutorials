@@ -11,10 +11,6 @@
 * [ansehen](/makecode-tutorials/light-switch)
 * [starten](https://makecode.microbit.org/#tutorial:github:janobi7/makecode-tutorials/light-switch)
 
-### Klatschlicht
-* [ansehen](/makecode-tutorials/clap-light)
-* [starten](https://makecode.microbit.org/#tutorial:github:janobi7/makecode-tutorials/clap-light)
-
 ## Dieses Projekt bearbeiten
 
 Um dieses Repository in MakeCode zu bearbeiten.
