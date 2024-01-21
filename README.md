@@ -2,6 +2,15 @@
 > Diese Seite bei [https://janobi7.github.io/makecode-tutorials/](https://janobi7.github.io/makecode-tutorials/) öffnen
 
 ## Anleitungen
+
+### Blinkendes Herz
+* [ansehen](/makecode-tutorials/flashing-heart)
+* [starten](https://makecode.microbit.org/#tutorial:github:janobi7/makecode-tutorials/flashing-heart)
+
+### Lichtschalter
+* [ansehen](/makecode-tutorials/light-switch)
+* [starten](https://makecode.microbit.org/#tutorial:github:janobi7/makecode-tutorials/light-switch)
+
 ### Klatschlicht
 * [ansehen](/makecode-tutorials/clap-light)
 * [starten](https://makecode.microbit.org/#tutorial:github:janobi7/makecode-tutorials/clap-light)
