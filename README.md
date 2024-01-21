@@ -1,8 +1,8 @@
 ## Anleitungen
 
-* Blinkendes Herz: [ansehen](/makecode-tutorials/flashing-heart) | [starten](https://makecode.microbit.org/#tutorial:github:janobi7/makecode-tutorials/flashing-heart)
-* Lichtschalter: [ansehen](/makecode-tutorials/light-switch) | [starten](https://makecode.microbit.org/#tutorial:github:janobi7/makecode-tutorials/light-switch)
-* Bilschirm aktivieren: [ansehen](/makecode-tutorials/screen-activator) | [starten](https://makecode.microbit.org/#tutorial:github:janobi7/makecode-tutorials/screen-activator)
+* Blinkendes Herz: [ansehen](/makecode-tutorials/flashing-heart){: .btn} | [starten](https://makecode.microbit.org/#tutorial:github:janobi7/makecode-tutorials/flashing-heart){: .btn}
+* Lichtschalter: [ansehen](/makecode-tutorials/light-switch){: .btn} | [starten](https://makecode.microbit.org/#tutorial:github:janobi7/makecode-tutorials/light-switch){: .btn}
+* Bilschirm aktivieren: [ansehen](/makecode-tutorials/screen-activator){: .btn} | [starten](https://makecode.microbit.org/#tutorial:github:janobi7/makecode-tutorials/screen-activator){: .btn}
 
 ## Dieses Projekt bearbeiten
 
