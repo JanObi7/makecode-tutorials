@@ -1,15 +1,8 @@
-
-> Diese Seite bei [https://janobi7.github.io/makecode-tutorials/](https://janobi7.github.io/makecode-tutorials/) öffnen
-
 ## Anleitungen
 
-### Blinkendes Herz
-* [ansehen](/makecode-tutorials/flashing-heart)
-* [starten](https://makecode.microbit.org/#tutorial:github:janobi7/makecode-tutorials/flashing-heart)
-
-### Lichtschalter
-* [ansehen](/makecode-tutorials/light-switch)
-* [starten](https://makecode.microbit.org/#tutorial:github:janobi7/makecode-tutorials/light-switch)
+* Blinkendes Herz: [ansehen](/makecode-tutorials/flashing-heart) | [starten](https://makecode.microbit.org/#tutorial:github:janobi7/makecode-tutorials/flashing-heart)
+* Lichtschalter: [ansehen](/makecode-tutorials/light-switch) | [starten](https://makecode.microbit.org/#tutorial:github:janobi7/makecode-tutorials/light-switch)
+* Bilschirm aktivieren: [ansehen](/makecode-tutorials/screen-activator) | [starten](https://makecode.microbit.org/#tutorial:github:janobi7/makecode-tutorials/screen-activator)
 
 ## Dieses Projekt bearbeiten
 
@@ -23,3 +16,5 @@ Um dieses Repository in MakeCode zu bearbeiten.
 
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
+Diese Seite bei [https://janobi7.github.io/makecode-tutorials/](https://janobi7.github.io/makecode-tutorials/) öffnen

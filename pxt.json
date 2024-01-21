@@ -11,7 +11,9 @@
         "README.md",
         "clap-light.md",
         "light-switch.md",
-        "flashing-heart.md"
+        "flashing-heart.md",
+        "main.py",
+        "screen-activator.md"
     ],
     "testFiles": [
         "test.ts"
