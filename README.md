@@ -2,8 +2,9 @@
 > Diese Seite bei [https://janobi7.github.io/makecode-tutorials/](https://janobi7.github.io/makecode-tutorials/) öffnen
 
 ## Anleitungen
-
-* [Klatsch-Licht](/makecode-tutorials/clap-light)
+### Klatschlicht
+* [ansehen](/makecode-tutorials/clap-light)
+* [starten](https://makecode.microbit.org/#tutorial:github:janobi7/makecode-tutorials/clap-light)
 
 ## Dieses Projekt bearbeiten
 
