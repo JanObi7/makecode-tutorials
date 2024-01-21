@@ -1,14 +1,9 @@
 
 > Diese Seite bei [https://janobi7.github.io/makecode-tutorials/](https://janobi7.github.io/makecode-tutorials/) öffnen
 
-## Als Erweiterung verwenden
+## Anleitungen
 
-Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
-
-* öffne [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* klicke auf **Neues Projekt**
-* klicke auf **Erweiterungen** unter dem Zahnrad-Menü
-* nach **https://github.com/janobi7/makecode-tutorials** suchen und importieren
+* [Klatsch-Licht](tutorial-clap-light)
 
 ## Dieses Projekt bearbeiten
 
