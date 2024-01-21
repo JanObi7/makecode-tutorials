@@ -12,9 +12,7 @@ Um dieses Repository in MakeCode zu bearbeiten.
 * klicke auf **Importieren** und dann auf **Importiere URL**
 * füge **https://github.com/janobi7/makecode-tutorials** ein und klicke auf Importieren
 
-#### Metadaten (verwendet für Suche, Rendering)
+Diese Seite bei [https://janobi7.github.io/makecode-tutorials/](https://janobi7.github.io/makecode-tutorials/) öffnen
 
-* for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
 
-Diese Seite bei [https://janobi7.github.io/makecode-tutorials/](https://janobi7.github.io/makecode-tutorials/) öffnen
