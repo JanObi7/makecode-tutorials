@@ -9,7 +9,7 @@
     "files": [
         "main.ts",
         "README.md",
-        "tutorial-clap-light.md"
+        "clap-light.md"
     ],
     "testFiles": [
         "test.ts"

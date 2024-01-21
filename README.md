@@ -3,7 +3,7 @@
 
 ## Anleitungen
 
-* [Klatsch-Licht](tutorial-clap-light)
+* [Klatsch-Licht](/makecode-tutorials/clap-light)
 
 ## Dieses Projekt bearbeiten
 
