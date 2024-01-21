@@ -10,7 +10,8 @@
         "main.ts",
         "README.md",
         "clap-light.md",
-        "light-switch.md"
+        "light-switch.md",
+        "flashing-heart.md"
     ],
     "testFiles": [
         "test.ts"
