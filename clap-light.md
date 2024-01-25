@@ -2,7 +2,11 @@
 
 ## Einleitung
 
-Vollständiges Programm
+Durch Klatschen kann ein Licht in 3 Helligkeiten aktiviert werden.
+
+## Programm
+
+Hier das vollständige Programm
 
 ```blocks
 let licht = 0
