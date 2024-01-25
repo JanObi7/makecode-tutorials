@@ -13,7 +13,8 @@
         "light-switch.md",
         "flashing-heart.md",
         "main.py",
-        "screen-activator.md"
+        "screen-activator.md",
+        "dice.md"
     ],
     "testFiles": [
         "test.ts"
