@@ -9,6 +9,7 @@
 * Würfel: [ansehen](/makecode-tutorials/dice) / [starten](https://makecode.microbit.org/#tutorial:github:janobi7/makecode-tutorials/dice)
 * Kompass: [ansehen](/makecode-tutorials/compass) / [starten](https://makecode.microbit.org/#tutorial:github:janobi7/makecode-tutorials/compass)
 * Nachtlicht: [ansehen](/makecode-tutorials/clap-light) / [starten](https://makecode.microbit.org/#tutorial:github:janobi7/makecode-tutorials/clap-light)
+* Schrittzähler: [ansehen](/makecode-tutorials/step-counter) / [starten](https://makecode.microbit.org/#tutorial:github:janobi7/makecode-tutorials/step-counter)
 
 ## Dieses Projekt bearbeiten
 

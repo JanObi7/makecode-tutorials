@@ -15,7 +15,8 @@
         "main.py",
         "screen-activator.md",
         "dice.md",
-        "compass.md"
+        "compass.md",
+        "step-counter.md"
     ],
     "testFiles": [
         "test.ts"
