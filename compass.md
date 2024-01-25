@@ -2,7 +2,11 @@
 
 ## Einleitung
 
-Vollständiges Programm
+Dieser elektronische Kompass zeigt dir genau wo Norden ist.
+
+## Programm
+
+Hier das vollständige Programm
 
 ```blocks
 basic.forever(function () {

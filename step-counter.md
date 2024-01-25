@@ -2,7 +2,11 @@
 
 ## Einleitung
 
-Vollständiges Programm
+Mit dem micro:bit in der Hand kann man seine Schritte zählen.
+
+## Programm
+
+Hier das vollständige Programm
 
 ```blocks
 input.onButtonPressed(Button.AB, function () {

@@ -2,7 +2,11 @@
 
 ## Einleitung
 
-Vollständiges Programm
+Ein elektronischer Würfel. Schüttle den micro:bit und er gibt eine zufällige Augenzahl aus.
+
+## Programm
+
+Hier das vollständige Programm
 
 ```blocks
 let zahl = 0
