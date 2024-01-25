@@ -1,16 +1,47 @@
-# tutorial-clap-light
-
-## Step 1
-
-Here is some text.
+# clap-light
 
 ```blocks
-basic.showString(":)")
+let licht = 0
+input.onSound(DetectedSound.Loud, function () {
+    if (licht == 3) {
+        licht = 2
+        basic.showLeds(`
+            . . # . .
+            . # # # .
+            # # # # #
+            . # # # .
+            . . # . .
+            `)
+    } else if (licht == 2) {
+        licht = 1
+        basic.showLeds(`
+            . . . . .
+            . . # . .
+            . # # # .
+            . . # . .
+            . . . . .
+            `)
+    } else if (licht == 1) {
+        licht = 0
+        basic.showLeds(`
+            . . . . .
+            . . . . .
+            . . . . .
+            . . . . .
+            . . . . .
+            `)
+    } else {
+        licht = 3
+        basic.showLeds(`
+            . # # # .
+            # # # # #
+            # # # # #
+            # # # # #
+            . # # # .
+            `)
+    }
+})
 ```
-
-## Step 2
-
-Congratulations, you did it!
 
 
 <script src="https://makecode.com/gh-pages-embed.js"></script>
