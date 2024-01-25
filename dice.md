@@ -1,5 +1,9 @@
 # dice
 
+## Einleitung
+
+Vollständiges Programm
+
 ```blocks
 let zahl = 0
 input.onGesture(Gesture.Shake, function () {

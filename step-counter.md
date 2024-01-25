@@ -1,5 +1,9 @@
 # step-counter
 
+## Einleitung
+
+Vollständiges Programm
+
 ```blocks
 input.onButtonPressed(Button.AB, function () {
     steps = 0
