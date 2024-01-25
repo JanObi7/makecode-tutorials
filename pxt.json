@@ -14,7 +14,8 @@
         "flashing-heart.md",
         "main.py",
         "screen-activator.md",
-        "dice.md"
+        "dice.md",
+        "compass.md"
     ],
     "testFiles": [
         "test.ts"
